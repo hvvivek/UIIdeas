@@ -1,0 +1,23 @@
+#content>div
+{
+    /* background-color: bisque; */
+    height: 100vh;
+}
+
+.option
+{
+    display: none;
+    list-style: none;
+}
+
+.project
+{
+    height: 70vh;
+    overflow-y: scroll;
+    display: none;
+}
+
+.option>li
+{
+    cursor: pointer;
+}
